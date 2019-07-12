@@ -67,7 +67,7 @@ You should see the following output from the NYU sequence snippet:
 ### Run a live demo via webcam (id #1) in CPU-mode:
 
 ```sh
-./demo_superpoint.py camera --camid=1
+./demo_superpoint.py camera --camid=0
 ```
 
 ### Run the demo on a remote GPU (no display) on 640x480 images and write the output to `myoutput/`
